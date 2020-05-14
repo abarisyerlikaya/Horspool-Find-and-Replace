@@ -20,6 +20,8 @@
 
 * The algorithm gets faster as the substring being searched for becomes longer. This is because with each unsuccessful attempt to find a match between the substring and the string, the algorithm uses the Bad Match table to rule out positions where the substring cannot match.
 
+(Information by nearsoft.com)
+
 ### Screenshots
 ![](https://i.imgur.com/6jkQj4y.png)
 
