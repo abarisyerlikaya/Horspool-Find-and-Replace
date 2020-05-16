@@ -23,22 +23,22 @@
 (Information by nearsoft.com)
 
 ### Screenshots
-![](https://i.imgur.com/6jkQj4y.png)
+<img src="images/1.png"/>
 
-![](https://i.imgur.com/1KiTZu3.png)
+<img src="images/2.png"/>
 
-![](https://i.imgur.com/10vULJm.png)
+<img src="images/3.png"/>
 
-![](https://i.imgur.com/0L7dKLr.png)
+<img src="images/4.png"/>
 
-![](https://i.imgur.com/h2aK0KQ.png)
+<img src="images/5.png"/>
 
-![](https://i.imgur.com/tHuX7ac.png)
+<img src="images/6.png"/>
 
-![](https://i.imgur.com/uLRy496.png)
+<img src="images/7.png"/>
 
-![](https://i.imgur.com/5WkSt3s.png)
+<img src="images/8.png"/>
 
-![](https://i.imgur.com/BPQVige.png)
+<img src="images/9.png"/>
 
-![](https://i.imgur.com/3G8QCfn.png)
+<img src="images/10.png"/>
