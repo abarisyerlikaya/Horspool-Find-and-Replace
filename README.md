@@ -1,4 +1,4 @@
-# Horspool-Find-and-Replace
+# Find and Replace by Horspool Algorithm
 * The program which finds and replaces patterns given by user in a text file, implemented by using Boyer-Moore Horspool string search algorithm.
 
 ### What is Boyer-Moore Horspool Algorithm?
