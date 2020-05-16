@@ -23,22 +23,22 @@
 (Information by nearsoft.com)
 
 ### Screenshots
-<img src="images/1.png"/>
+<img src="images/1.png" width = "600"/>
 
-<img src="images/2.png"/>
+<img src="images/2.png" width = "600"/>
 
-<img src="images/3.png"/>
+<img src="images/3.png" width = "600"/>
 
-<img src="images/4.png"/>
+<img src="images/4.png" width = "600"/>
 
-<img src="images/5.png"/>
+<img src="images/5.png" width = "600"/>
 
-<img src="images/6.png"/>
+<img src="images/6.png" width = "600"/>
 
-<img src="images/7.png"/>
+<img src="images/7.png" width = "600"/>
 
-<img src="images/8.png"/>
+<img src="images/8.png" width = "600"/>
 
-<img src="images/9.png"/>
+<img src="images/9.png" width = "600"/>
 
-<img src="images/10.png"/>
+<img src="images/10.png" width = "600"/>
